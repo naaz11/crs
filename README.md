@@ -1,6 +1,6 @@
 # Capstone Project- Complaint Redressal System
 ## Project Background
-Complaint Redressal System is an online complaint management application for ABC Telecom Ltd. which is one of India’s major telecommunication service providers where the customers can raise complaints regarding their landlines and broadband services.
+Complaint Redressal System is an online complaint management application for ABC Telecom Ltd.
 
 ## Run the application
 Download or clone the content of repository. Then follow the instruction given below:
